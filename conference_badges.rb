@@ -3,7 +3,8 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(names)
-  names.collect do |name
+  names.collect do |name|
+    
 end
 
 def assign_rooms(names)
