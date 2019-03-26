@@ -10,7 +10,8 @@ end
 
 def assign_rooms(names)
   room=0
-  
+  names.collect do |name|
+    
 end
 
 def printer(names)
